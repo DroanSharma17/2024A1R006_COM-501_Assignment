@@ -1,7 +1,6 @@
 """canteen_order.py - the CanteenOrder class (Milestone 3, now using canteen_utils)."""
 import canteen_utils
 
-
 class CanteenOrder:
     canteen_name = "MIET Campus Canteen"        # class variable
 
